@@ -1,9 +1,14 @@
-13.0.1.2.0
------------
+11.0.1.2
+----------
 
-- *Bugfix* printing report via button doesn't 'freeze' form any more
+- Bug fixes
 
-13.0.1.0
------------
+11.0.1.1
+----------
 
-- Release for Odoo 13
+- Bug fixes
+
+11.0.1.0
+----------
+
+- Release for Odoo 11

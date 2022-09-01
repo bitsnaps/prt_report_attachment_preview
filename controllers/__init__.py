@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-from . import cetmix_controllers
+from . import prt_controllers
 
 
 
